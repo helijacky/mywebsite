@@ -24,7 +24,7 @@
     	<div class="d-flex justify-content-center h-100">
     		<div class="card">
     			<div class="card-header">
-              <a style="color:white;font-size:40px" href="index1.php" >ATN store</a>
+              <a style="color:white;font-size:40px" href="index.php" >ATN store</a>
     				<h4 style="color:white">Sign up</h4>
     				<div class="d-flex justify-content-end social_icon">
     					<span><i class="fab fa-facebook-square"></i></span>
