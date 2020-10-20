@@ -27,7 +27,7 @@ if($list){
          <div class="container">
             <table class="table table-dark">
             <h3><a href="insert.php">Add new product</a></h3>
-            <h3><a href="index1.php">To main page</a></h3>
+            <h3><a href="index.php">To main page</a></h3>
              <tr> 
                 <th> Product ID: </th>
                 <th> Product Name: </th>

@@ -120,7 +120,7 @@ if($list){
 		<header id="fh5co-header" role="banner">
 			<div class="container text-center">
 				<div id="fh5co-logo">
-					<a href="index1.php"><img src="img\logo.jpg"/></a>
+					<a href="index.php"><img src="img\logo.jpg"/></a>
 				</div>
 				
 			</div>
