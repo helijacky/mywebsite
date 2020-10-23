@@ -65,17 +65,17 @@ if($list){
 	<link href="https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700" rel="stylesheet">
 	
 	<!-- Animate.css -->
-	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="CSS/animate.css">
 	<!-- Icomoon Icon Fonts-->
-	<link rel="stylesheet" href="css/icomoon.css">
+	<link rel="stylesheet" href="CSS/icomoon.css">
 	<!-- Bootstrap  -->
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="CSS/bootstrap.css">
 	<!-- Superfish -->
-	<link rel="stylesheet" href="css/superfish.css">
+	<link rel="stylesheet" href="CSS/superfish.css">
 	<!-- Flexslider  -->
-	<link rel="stylesheet" href="css/flexslider.css">
+	<link rel="stylesheet" href="CSS/flexslider.css">
 
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="CSS/style.css">
 
 
 	<!-- Modernizr JS -->
